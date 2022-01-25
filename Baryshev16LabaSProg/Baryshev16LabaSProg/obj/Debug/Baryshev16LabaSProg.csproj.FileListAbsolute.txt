@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\Baryshev16LabaSProg\Baryshev16LabaSProg\bin\Debug\Baryshev16LabaSProg.exe.config
+C:\Users\student\source\repos\Baryshev16LabaSProg\Baryshev16LabaSProg\bin\Debug\Baryshev16LabaSProg.exe
+C:\Users\student\source\repos\Baryshev16LabaSProg\Baryshev16LabaSProg\bin\Debug\Baryshev16LabaSProg.pdb
+C:\Users\student\source\repos\Baryshev16LabaSProg\Baryshev16LabaSProg\obj\Debug\Baryshev16LabaSProg.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Baryshev16LabaSProg\Baryshev16LabaSProg\obj\Debug\Baryshev16LabaSProg.Form1.resources
+C:\Users\student\source\repos\Baryshev16LabaSProg\Baryshev16LabaSProg\obj\Debug\Baryshev16LabaSProg.Properties.Resources.resources
+C:\Users\student\source\repos\Baryshev16LabaSProg\Baryshev16LabaSProg\obj\Debug\Baryshev16LabaSProg.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Baryshev16LabaSProg\Baryshev16LabaSProg\obj\Debug\Baryshev16LabaSProg.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Baryshev16LabaSProg\Baryshev16LabaSProg\obj\Debug\Baryshev16LabaSProg.exe
+C:\Users\student\source\repos\Baryshev16LabaSProg\Baryshev16LabaSProg\obj\Debug\Baryshev16LabaSProg.pdb
